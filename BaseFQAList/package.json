@@ -1,0 +1,14 @@
+{
+  "name": "react-native-fqalist",
+  "version": "1.0.0",
+  "description": "FQA列表组件",
+  "main": "BaseFQAList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "List"
+  ],
+  "author": "yushengchu@aliyun.com",
+  "license": "ISC"
+}
